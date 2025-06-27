@@ -81,12 +81,6 @@ Add hyperparameter tuning (e.g., GridSearchCV)
 
 Train with larger and more diverse datasets
 
-📬 Contact
-Manvi Taneja
-LinkedIn | Email
-
-Let me know if you want this exported as a README.md file or added to a GitHub repo.
-
 
 
 
