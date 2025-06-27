@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+car_price_model.pkl
+.env
+.DS_Store
