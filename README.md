@@ -1,9 +1,6 @@
 This project aims to predict the price of a car based on various features such as year, fuel type, transmission, seller type, etc., using machine learning regression models. The dataset is preprocessed, visualized, and fed into different regression algorithms to identify the best-performing model.
 
  Project Structure
-nginx
-Copy
-Edit
 Car Price Prediction.ipynb   # Main notebook containing code and analysis
 README.md                    # Project overview and usage instructions
  Technologies Used
@@ -36,9 +33,6 @@ Seller Type
 
 Transmission
 
-Owner
-
-(Ensure your dataset is included in your repo or provide a link if it's external.)
 
 🛠 Features
 Data cleaning and preprocessing
